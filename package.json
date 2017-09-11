@@ -1,6 +1,6 @@
 {
   "name": "twitter-web-oauth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Piece of code to help you implement Sign in with twitter on your js app (including react-native). It follows the Browser Sign In flow",
   "main": "index.js",
   "scripts": {
