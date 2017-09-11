@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/makunomark/twitter-web-oauth/issues"
   },
-  "homepage": "https://github.com/makunomark/twitter-web-oauth#readme"
+  "homepage": "https://github.com/makunomark/twitter-web-oauth#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
 }
