@@ -1,0 +1,30 @@
+{
+  "name": "twitter-web-oauth",
+  "version": "1.0.0",
+  "description": "Piece of code to help you implement Sign in with twitter on your js app (including react-native). It follows the Browser Sign In flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makunomark/twitter-web-oauth.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "twitter",
+    "oauth",
+    "browser",
+    "sign",
+    "in",
+    "flow"
+  ],
+  "author": "makunomark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makunomark/twitter-web-oauth/issues"
+  },
+  "homepage": "https://github.com/makunomark/twitter-web-oauth#readme"
+}
