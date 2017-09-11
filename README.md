@@ -2,8 +2,12 @@ Piece of code to help you implement [Sign in with twitter](https://dev.twitter.c
 
 This repo gets inspiration from [Expo's](https://docs.expo.io/versions/latest/sdk/webbrowser.html#authentication) OAuth and twitter sign in [example](https://github.com/expo/expo-twitter-login-example)
 
-## Example usage in React Native
+## Install
+```
+npm install --save twitter-web-oauth
+```
 
+## Example usage in React Native
 ```
 import { redirectUrl, getAccessToken } from 'twitter-web-oauth'; // make imports from the package
 
